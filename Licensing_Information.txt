@@ -1,0 +1,9 @@
+
+Data Licensing Information
+
+The occurence dataset provided was downloaded from GBIF.org. The dataset contains information published under the following licenses:
+ - Creative Commons Attribution (CC BY) 4.0
+ - Creative Commons Zero (CC0) 1.0
+ - Creative Commons Attribution-NonCommercial (CC BY-NC) 4.0
+ 
+Citation: GBIF.org (07 August 2025) GBIF Occurrence Download https://doi.org/10.15468/dl.dfvx4j
